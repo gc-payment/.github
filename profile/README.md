@@ -39,4 +39,4 @@
 По всем вопросам вы можете связаться с разработчиком:
 
 E-mail: [mail@xdemon.ru](mailto:mail@xdemon.ru)  
-Telegram: [@xDemonRU](https://t.me/xDemonRU)
+Telegram: [@xDemonME](https://t.me/xDemonME)
