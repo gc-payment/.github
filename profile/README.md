@@ -45,9 +45,10 @@
 
 Готовые интеграции: 
  - Cloudpayments
- - Stripe
+ - Stripe (поддерживаются рекуррентные платежи)
  - Paypal
  - Freedom Pay / PayBox
+ - Сбербанк
  - PayMe (Узбекистан)
  - Fondy (Украина)
  - Wayforpay (Украина)
