@@ -67,5 +67,5 @@
 
 По всем вопросам вы можете связаться с разработчиком:
 
-E-mail: [mail@xdemon.ru](mailto:mail@xdemon.ru)  
-Telegram: [@xDemonME](https://t.me/xDemonME)
+E-mail: [sales@inovamedia.ru](mailto:sales@inovamedia.ru)  
+Telegram: [@InovaDev](https://t.me/InovaDev)
